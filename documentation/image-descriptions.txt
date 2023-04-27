@@ -1,0 +1,30 @@
+Image Descriptions:
+
+Overview:
+
+Large text reads: ‘DRAWING FROM THE GARDEN’. The text is bright yellow-green on a black background. The font has extremely chaotic creepy-crawly energy and looks quite delicate and organic. Each letter is made out of many thin, squiggly drawings of different insects such as spiders, beetles and caterpillars.
+
+Q:
+
+An enlarged uppercase ‘Q’. The body of the Q is made of a bee, spider, moth, dragonfly and several other insects. Its cross stroke is made out of a large thick caterpillar with jaws at both ends!
+
+N:
+
+An enlarged uppercase ‘N’. A suspicious-looking mosquito, moth, ladybird beetle, butterfly and spider form the N’s diagonal stroke.
+
+L:
+
+An enlarged uppercase ‘L’. A caterpillar with segmented articulations is forming most of the horizontal stroke. A big butterfly forms the top of the L’s stem.
+
+Alphabet:
+
+The english alphabet is enlarged to show each letter. Some letters are taller or shorter than others and there are no clear guidelines. Spacing is pretty janky.
+
+directory1:
+
+‘Access individual insect glyphs by typing their secret code names’
+A text table with insect glyphs next to their code names: ‘beetle1, beetle2, beetle3, beetle4, beetle5, beetle6, spider1, spider2, spider3, spider4, insect1, insect2, insect3, insect4, ant1, butterfly1’
+
+directory2:
+
+code names continued: ‘butterfly2, caterpillar1, caterpillar2, caterpillar3, mantis1, mantis2, dragonfly1, dragonfly2, mosquito1, mosquito2, moth1, bee1, worm1, thief’
